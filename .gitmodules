@@ -1,0 +1,6 @@
+[submodule "minilibx-linux"]
+	path = minilibx-linux
+	url = https://github.com/42Paris/minilibx-linux
+[submodule "libft"]
+	path = libft
+	url = git@github.com:OrioPrisco/libft_pub

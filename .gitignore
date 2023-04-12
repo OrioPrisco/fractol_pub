@@ -1,0 +1,11 @@
+a.out
+*.o
+*.d
+*.swp
+*.swo
+*.a
+*.nfs
+*.cc
+compile_commands.json
+fractol
+.gdb_history
